@@ -5,9 +5,9 @@ A personal project focusing on improving the user interface of the front page of
 
 The current user interface is simplistic yet disregards one of Microsoft's key features: current sales or deals. 
 
-In my design, Microsoft would highlight their current sales or any games on a deal or price drop. This mimics the current dashboard on the Xbox itself. I find this to be a pivitol aspect missing from the Microsoft dashboard within the Xbox applicaiton. 
+In my design, Microsoft would highlight their current sales or any games on a deal or price drop. This mimics the current dashboard on the Xbox itself. I find this to be a pivitol aspect missing from the Microsoft dashboard within the Xbox application. 
 
-Current applicaiton dashboard:
+Current application dashboard:
 
 ![](https://github.com/MichelePiot/Mobile-Xbox-Store-Update-/blob/master/ProjectFiles/OriginalMobilXbox.PNG)
 
